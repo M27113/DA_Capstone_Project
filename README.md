@@ -1,4 +1,4 @@
-# IBM DA_Capstone_Project 
+# Analysis of Stack Overflow Developer Survey data 
 ## Project scenario
 The main goal is to collect data from diverse sources and identifying trends for this year's report on in-demand skills. One key source for this analysis is the latest Developer Survey, a comprehensive dataset offering insights into the global developer community. 
 ### Dataset used is the following source: 
